@@ -25,6 +25,7 @@
 	- Actions for an object
 	- Methods
 
-#### Class (data type of object) public **class**
+#### Class (data type of object) public -Class--
 
 - Blueprint for object
+- All charateristicts + Behaviors are programmed hear
