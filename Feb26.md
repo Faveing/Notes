@@ -51,3 +51,5 @@
 		- Age (Int)
 	- Methods
 		- Stuff
+
+chapter 14 & 5 in the other textbook
