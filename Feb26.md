@@ -50,4 +50,4 @@
 		- Last name (String)
 		- Age (Int)
 	- Methods
-		- :
+		- Stuff
