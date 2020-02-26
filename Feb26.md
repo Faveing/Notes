@@ -6,6 +6,11 @@
 
 - Noun: Person,place, or thing
 
+##### Benefits
+
+- Minimizing errors
+- Reusability 
+
 ##### Characteristics
 
 - Private
@@ -14,6 +19,12 @@
 	- Things that describe
 	- Instance variables (Data Members)
 
+##### Behaviors (Verbs)
 
-##### Behaviors
+- Public
+	- Actions for an object
+	- Methods
 
+#### Class (data type of object) public **class**
+
+- Blueprint for object
